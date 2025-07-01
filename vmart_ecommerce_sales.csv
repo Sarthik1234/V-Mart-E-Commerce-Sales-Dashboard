@@ -1,0 +1,501 @@
+Order ID,Order Date,Customer ID,Region,Category,Sub-Category,Product Name,Quantity,Unit Price,Payment Method,Order Status,Total Sales
+VM1000,2023-01-01,CUST1000,West,Books,Cookware,Product 0,3,493.45,UPI,Returned,1480.35
+VM1001,2023-01-02,CUST1001,Central,Electronics,Cookware,Product 1,4,187.65,Cash on Delivery,Returned,750.6
+VM1002,2023-01-03,CUST1002,East,Toys,Cookware,Product 2,1,464.52,Net Banking,Returned,464.52
+VM1003,2023-01-04,CUST1003,Central,Home & Kitchen,Cookware,Product 3,1,633.63,Cash on Delivery,Cancelled,633.63
+VM1004,2023-01-05,CUST1004,Central,Home & Kitchen,Fiction,Product 4,3,621.47,Cash on Delivery,Cancelled,1864.41
+VM1005,2023-01-06,CUST1005,South,Electronics,Fiction,Product 5,3,696.36,Credit Card,Delivered,2089.08
+VM1006,2023-01-07,CUST1006,East,Books,Laptops,Product 6,2,185.74,Net Banking,Delivered,371.48
+VM1007,2023-01-08,CUST1007,East,Books,Mobiles,Product 7,4,686.91,Net Banking,Cancelled,2747.64
+VM1008,2023-01-09,CUST1008,East,Toys,Cookware,Product 8,4,380.93,Cash on Delivery,Returned,1523.72
+VM1009,2023-01-10,CUST1009,Central,Electronics,Laptops,Product 9,3,459.14,UPI,Returned,1377.42
+VM1010,2023-01-11,CUST1010,West,Home & Kitchen,Mobiles,Product 10,2,872.19,Credit Card,Returned,1744.38
+VM1011,2023-01-12,CUST1011,East,Books,Puzzles,Product 11,4,108.13,Cash on Delivery,Delivered,432.52
+VM1012,2023-01-13,CUST1012,Central,Electronics,Shirts,Product 12,3,629.57,Debit Card,Returned,1888.71
+VM1013,2023-01-14,CUST1013,South,Books,Fiction,Product 13,1,638.84,Debit Card,Delivered,638.84
+VM1014,2023-01-15,CUST1014,West,Books,Puzzles,Product 14,4,456.99,Credit Card,Delivered,1827.96
+VM1015,2023-01-16,CUST1015,South,Home & Kitchen,Mobiles,Product 15,2,313.33,UPI,Returned,626.66
+VM1016,2023-01-17,CUST1016,West,Clothing,Puzzles,Product 16,2,311.21,Cash on Delivery,Returned,622.42
+VM1017,2023-01-18,CUST1017,Central,Toys,Shirts,Product 17,2,895.34,Net Banking,Cancelled,1790.68
+VM1018,2023-01-19,CUST1018,North,Toys,Mobiles,Product 18,1,497.82,Credit Card,Cancelled,497.82
+VM1019,2023-01-20,CUST1019,West,Home & Kitchen,Puzzles,Product 19,4,397.8,UPI,Returned,1591.2
+VM1020,2023-01-21,CUST1020,South,Books,Fiction,Product 20,4,503.9,Net Banking,Delivered,2015.6
+VM1021,2023-01-22,CUST1021,Central,Electronics,Fiction,Product 21,1,702.45,Debit Card,Delivered,702.45
+VM1022,2023-01-23,CUST1022,West,Books,Laptops,Product 22,4,231.18,Debit Card,Delivered,924.72
+VM1023,2023-01-24,CUST1023,North,Home & Kitchen,Puzzles,Product 23,1,504.49,Net Banking,Delivered,504.49
+VM1024,2023-01-25,CUST1024,North,Toys,Cookware,Product 24,1,629.1,Credit Card,Delivered,629.1
+VM1025,2023-01-26,CUST1025,East,Books,Puzzles,Product 25,1,953.73,Debit Card,Cancelled,953.73
+VM1026,2023-01-27,CUST1026,East,Toys,Mobiles,Product 26,2,327.28,Cash on Delivery,Returned,654.56
+VM1027,2023-01-28,CUST1027,South,Electronics,Mobiles,Product 27,4,423.33,Net Banking,Cancelled,1693.32
+VM1028,2023-01-29,CUST1028,West,Toys,Puzzles,Product 28,1,441.42,Net Banking,Delivered,441.42
+VM1029,2023-01-30,CUST1029,West,Toys,Shirts,Product 29,4,644.98,Debit Card,Delivered,2579.92
+VM1030,2023-01-31,CUST1030,East,Clothing,Fiction,Product 30,2,421.06,Credit Card,Delivered,842.12
+VM1031,2023-02-01,CUST1031,West,Clothing,Mobiles,Product 31,1,580.16,Cash on Delivery,Delivered,580.16
+VM1032,2023-02-02,CUST1032,West,Clothing,Fiction,Product 32,3,803.61,Credit Card,Returned,2410.83
+VM1033,2023-02-03,CUST1033,North,Toys,Mobiles,Product 33,2,734.85,UPI,Delivered,1469.7
+VM1034,2023-02-04,CUST1034,East,Home & Kitchen,Laptops,Product 34,3,501.73,UPI,Returned,1505.19
+VM1035,2023-02-05,CUST1035,Central,Toys,Cookware,Product 35,4,877.79,Debit Card,Delivered,3511.16
+VM1036,2023-02-06,CUST1036,East,Home & Kitchen,Mobiles,Product 36,4,602.33,Debit Card,Returned,2409.32
+VM1037,2023-02-07,CUST1037,Central,Home & Kitchen,Fiction,Product 37,2,585.92,Debit Card,Cancelled,1171.84
+VM1038,2023-02-08,CUST1038,North,Clothing,Laptops,Product 38,4,130.77,UPI,Delivered,523.08
+VM1039,2023-02-09,CUST1039,South,Books,Mobiles,Product 39,3,988.02,Credit Card,Returned,2964.06
+VM1040,2023-02-10,CUST1040,West,Electronics,Shirts,Product 40,1,210.67,Credit Card,Cancelled,210.67
+VM1041,2023-02-11,CUST1041,North,Clothing,Cookware,Product 41,1,308.02,Debit Card,Delivered,308.02
+VM1042,2023-02-12,CUST1042,West,Clothing,Mobiles,Product 42,1,146.53,Cash on Delivery,Delivered,146.53
+VM1043,2023-02-13,CUST1043,South,Books,Laptops,Product 43,2,676.0,Credit Card,Delivered,1352.0
+VM1044,2023-02-14,CUST1044,South,Electronics,Shirts,Product 44,4,302.23,UPI,Returned,1208.92
+VM1045,2023-02-15,CUST1045,North,Toys,Puzzles,Product 45,3,262.01,Net Banking,Returned,786.03
+VM1046,2023-02-16,CUST1046,South,Toys,Laptops,Product 46,4,179.7,Net Banking,Cancelled,718.8
+VM1047,2023-02-17,CUST1047,Central,Clothing,Laptops,Product 47,4,192.98,Net Banking,Returned,771.92
+VM1048,2023-02-18,CUST1048,South,Electronics,Shirts,Product 48,4,626.2,Cash on Delivery,Returned,2504.8
+VM1049,2023-02-19,CUST1049,West,Clothing,Laptops,Product 49,1,719.39,Debit Card,Delivered,719.39
+VM1050,2023-02-20,CUST1050,West,Home & Kitchen,Shirts,Product 0,3,457.64,UPI,Delivered,1372.92
+VM1051,2023-02-21,CUST1051,West,Clothing,Mobiles,Product 1,3,531.91,Cash on Delivery,Delivered,1595.73
+VM1052,2023-02-22,CUST1052,West,Clothing,Shirts,Product 2,4,717.37,UPI,Delivered,2869.48
+VM1053,2023-02-23,CUST1053,Central,Toys,Shirts,Product 3,1,115.64,UPI,Delivered,115.64
+VM1054,2023-02-24,CUST1054,East,Toys,Cookware,Product 4,1,390.82,Debit Card,Delivered,390.82
+VM1055,2023-02-25,CUST1055,North,Toys,Shirts,Product 5,3,975.79,Net Banking,Delivered,2927.37
+VM1056,2023-02-26,CUST1056,West,Home & Kitchen,Shirts,Product 6,1,622.1,Debit Card,Cancelled,622.1
+VM1057,2023-02-27,CUST1057,South,Toys,Puzzles,Product 7,1,328.8,Cash on Delivery,Cancelled,328.8
+VM1058,2023-02-28,CUST1058,West,Electronics,Mobiles,Product 8,1,569.56,Cash on Delivery,Cancelled,569.56
+VM1059,2023-03-01,CUST1059,South,Books,Cookware,Product 9,2,408.39,Cash on Delivery,Cancelled,816.78
+VM1060,2023-03-02,CUST1060,South,Electronics,Puzzles,Product 10,4,579.02,Debit Card,Delivered,2316.08
+VM1061,2023-03-03,CUST1061,West,Electronics,Fiction,Product 11,3,213.17,UPI,Cancelled,639.51
+VM1062,2023-03-04,CUST1062,Central,Toys,Mobiles,Product 12,3,219.44,UPI,Delivered,658.3199999999999
+VM1063,2023-03-05,CUST1063,South,Books,Mobiles,Product 13,2,229.19,Credit Card,Cancelled,458.38
+VM1064,2023-03-06,CUST1064,South,Books,Fiction,Product 14,4,945.84,Cash on Delivery,Returned,3783.36
+VM1065,2023-03-07,CUST1065,West,Books,Shirts,Product 15,3,759.61,UPI,Cancelled,2278.83
+VM1066,2023-03-08,CUST1066,South,Home & Kitchen,Puzzles,Product 16,1,246.14,Credit Card,Cancelled,246.14
+VM1067,2023-03-09,CUST1067,South,Toys,Laptops,Product 17,3,269.51,UPI,Delivered,808.53
+VM1068,2023-03-10,CUST1068,West,Books,Cookware,Product 18,1,757.75,Cash on Delivery,Cancelled,757.75
+VM1069,2023-03-11,CUST1069,West,Home & Kitchen,Laptops,Product 19,2,240.55,Net Banking,Returned,481.1
+VM1070,2023-03-12,CUST1070,North,Clothing,Fiction,Product 20,1,311.11,Cash on Delivery,Delivered,311.11
+VM1071,2023-03-13,CUST1071,Central,Clothing,Mobiles,Product 21,3,967.01,Debit Card,Delivered,2901.0299999999997
+VM1072,2023-03-14,CUST1072,Central,Home & Kitchen,Mobiles,Product 22,3,329.78,UPI,Cancelled,989.3399999999999
+VM1073,2023-03-15,CUST1073,South,Home & Kitchen,Cookware,Product 23,3,695.47,UPI,Delivered,2086.41
+VM1074,2023-03-16,CUST1074,Central,Toys,Mobiles,Product 24,2,980.77,Debit Card,Delivered,1961.54
+VM1075,2023-03-17,CUST1075,South,Toys,Mobiles,Product 25,2,436.87,Debit Card,Delivered,873.74
+VM1076,2023-03-18,CUST1076,North,Clothing,Cookware,Product 26,4,115.76,Net Banking,Delivered,463.04
+VM1077,2023-03-19,CUST1077,West,Books,Puzzles,Product 27,3,319.73,UPI,Delivered,959.19
+VM1078,2023-03-20,CUST1078,West,Clothing,Puzzles,Product 28,1,847.79,UPI,Delivered,847.79
+VM1079,2023-03-21,CUST1079,West,Books,Cookware,Product 29,2,878.15,Net Banking,Returned,1756.3
+VM1080,2023-03-22,CUST1080,Central,Books,Fiction,Product 30,3,791.67,Credit Card,Cancelled,2375.0099999999998
+VM1081,2023-03-23,CUST1081,North,Toys,Mobiles,Product 31,3,201.8,Net Banking,Returned,605.4000000000001
+VM1082,2023-03-24,CUST1082,Central,Electronics,Mobiles,Product 32,2,815.96,Cash on Delivery,Delivered,1631.92
+VM1083,2023-03-25,CUST1083,Central,Electronics,Fiction,Product 33,4,926.81,UPI,Delivered,3707.24
+VM1084,2023-03-26,CUST1084,North,Home & Kitchen,Puzzles,Product 34,2,640.55,Debit Card,Cancelled,1281.1
+VM1085,2023-03-27,CUST1085,North,Toys,Shirts,Product 35,2,946.79,Cash on Delivery,Returned,1893.58
+VM1086,2023-03-28,CUST1086,North,Books,Shirts,Product 36,1,844.15,UPI,Cancelled,844.15
+VM1087,2023-03-29,CUST1087,North,Electronics,Shirts,Product 37,1,700.27,Net Banking,Returned,700.27
+VM1088,2023-03-30,CUST1088,West,Books,Puzzles,Product 38,4,619.47,Cash on Delivery,Delivered,2477.88
+VM1089,2023-03-31,CUST1089,East,Electronics,Puzzles,Product 39,3,413.72,UPI,Cancelled,1241.16
+VM1090,2023-04-01,CUST1090,East,Electronics,Fiction,Product 40,2,243.36,Credit Card,Cancelled,486.72
+VM1091,2023-04-02,CUST1091,North,Electronics,Mobiles,Product 41,4,644.46,Credit Card,Delivered,2577.84
+VM1092,2023-04-03,CUST1092,East,Toys,Fiction,Product 42,1,386.3,Debit Card,Cancelled,386.3
+VM1093,2023-04-04,CUST1093,East,Clothing,Fiction,Product 43,2,879.79,UPI,Returned,1759.58
+VM1094,2023-04-05,CUST1094,North,Books,Puzzles,Product 44,3,994.0,Credit Card,Returned,2982.0
+VM1095,2023-04-06,CUST1095,East,Toys,Shirts,Product 45,1,777.18,Net Banking,Returned,777.18
+VM1096,2023-04-07,CUST1096,Central,Toys,Laptops,Product 46,1,181.43,UPI,Returned,181.43
+VM1097,2023-04-08,CUST1097,South,Toys,Mobiles,Product 47,1,359.82,Net Banking,Delivered,359.82
+VM1098,2023-04-09,CUST1098,South,Toys,Puzzles,Product 48,4,198.2,Net Banking,Cancelled,792.8
+VM1099,2023-04-10,CUST1099,North,Toys,Shirts,Product 49,3,685.46,Credit Card,Returned,2056.38
+VM1100,2023-04-11,CUST1100,West,Home & Kitchen,Laptops,Product 0,2,788.67,UPI,Delivered,1577.34
+VM1101,2023-04-12,CUST1101,North,Books,Laptops,Product 1,4,933.11,Cash on Delivery,Cancelled,3732.44
+VM1102,2023-04-13,CUST1102,West,Toys,Puzzles,Product 2,4,494.36,Credit Card,Cancelled,1977.44
+VM1103,2023-04-14,CUST1103,South,Books,Cookware,Product 3,4,911.24,Credit Card,Delivered,3644.96
+VM1104,2023-04-15,CUST1104,North,Home & Kitchen,Mobiles,Product 4,1,890.1,UPI,Delivered,890.1
+VM1105,2023-04-16,CUST1105,Central,Home & Kitchen,Laptops,Product 5,3,385.48,UPI,Returned,1156.44
+VM1106,2023-04-17,CUST1106,East,Books,Puzzles,Product 6,4,882.01,Net Banking,Cancelled,3528.04
+VM1107,2023-04-18,CUST1107,West,Electronics,Puzzles,Product 7,2,438.11,UPI,Cancelled,876.22
+VM1108,2023-04-19,CUST1108,East,Clothing,Shirts,Product 8,3,367.18,Net Banking,Delivered,1101.54
+VM1109,2023-04-20,CUST1109,East,Electronics,Cookware,Product 9,2,684.17,Credit Card,Cancelled,1368.34
+VM1110,2023-04-21,CUST1110,North,Electronics,Mobiles,Product 10,3,395.54,Debit Card,Returned,1186.6200000000001
+VM1111,2023-04-22,CUST1111,East,Electronics,Fiction,Product 11,2,667.19,Cash on Delivery,Cancelled,1334.38
+VM1112,2023-04-23,CUST1112,Central,Toys,Shirts,Product 12,1,648.85,Credit Card,Delivered,648.85
+VM1113,2023-04-24,CUST1113,East,Home & Kitchen,Laptops,Product 13,4,607.1,UPI,Delivered,2428.4
+VM1114,2023-04-25,CUST1114,North,Electronics,Laptops,Product 14,2,442.38,Cash on Delivery,Returned,884.76
+VM1115,2023-04-26,CUST1115,Central,Home & Kitchen,Shirts,Product 15,3,593.65,Debit Card,Returned,1780.9499999999998
+VM1116,2023-04-27,CUST1116,South,Books,Puzzles,Product 16,4,636.84,Debit Card,Cancelled,2547.36
+VM1117,2023-04-28,CUST1117,East,Clothing,Laptops,Product 17,4,591.12,Net Banking,Cancelled,2364.48
+VM1118,2023-04-29,CUST1118,North,Books,Cookware,Product 18,3,499.98,Cash on Delivery,Delivered,1499.94
+VM1119,2023-04-30,CUST1119,South,Books,Mobiles,Product 19,2,113.2,Net Banking,Returned,226.4
+VM1120,2023-05-01,CUST1120,South,Toys,Cookware,Product 20,1,628.36,Credit Card,Returned,628.36
+VM1121,2023-05-02,CUST1121,West,Clothing,Laptops,Product 21,1,251.6,Cash on Delivery,Returned,251.6
+VM1122,2023-05-03,CUST1122,Central,Books,Fiction,Product 22,2,678.32,Credit Card,Cancelled,1356.64
+VM1123,2023-05-04,CUST1123,East,Books,Mobiles,Product 23,4,783.41,Net Banking,Returned,3133.64
+VM1124,2023-05-05,CUST1124,North,Clothing,Mobiles,Product 24,4,550.4,Cash on Delivery,Delivered,2201.6
+VM1125,2023-05-06,CUST1125,West,Clothing,Shirts,Product 25,4,588.13,Net Banking,Delivered,2352.52
+VM1126,2023-05-07,CUST1126,Central,Books,Shirts,Product 26,4,956.33,Cash on Delivery,Cancelled,3825.32
+VM1127,2023-05-08,CUST1127,West,Clothing,Fiction,Product 27,2,862.45,Net Banking,Cancelled,1724.9
+VM1128,2023-05-09,CUST1128,Central,Books,Puzzles,Product 28,4,922.81,Debit Card,Returned,3691.24
+VM1129,2023-05-10,CUST1129,Central,Books,Mobiles,Product 29,3,832.39,Net Banking,Cancelled,2497.17
+VM1130,2023-05-11,CUST1130,East,Toys,Fiction,Product 30,4,198.03,Debit Card,Delivered,792.12
+VM1131,2023-05-12,CUST1131,Central,Electronics,Shirts,Product 31,1,234.09,Net Banking,Returned,234.09
+VM1132,2023-05-13,CUST1132,West,Books,Shirts,Product 32,4,573.96,Cash on Delivery,Delivered,2295.84
+VM1133,2023-05-14,CUST1133,Central,Home & Kitchen,Mobiles,Product 33,2,321.46,Cash on Delivery,Returned,642.92
+VM1134,2023-05-15,CUST1134,East,Electronics,Cookware,Product 34,1,529.03,Cash on Delivery,Cancelled,529.03
+VM1135,2023-05-16,CUST1135,East,Electronics,Laptops,Product 35,2,454.93,UPI,Returned,909.86
+VM1136,2023-05-17,CUST1136,West,Electronics,Shirts,Product 36,2,594.47,Credit Card,Returned,1188.94
+VM1137,2023-05-18,CUST1137,South,Toys,Puzzles,Product 37,1,772.19,Cash on Delivery,Delivered,772.19
+VM1138,2023-05-19,CUST1138,South,Books,Puzzles,Product 38,2,743.94,Debit Card,Delivered,1487.88
+VM1139,2023-05-20,CUST1139,Central,Toys,Shirts,Product 39,2,569.11,Cash on Delivery,Returned,1138.22
+VM1140,2023-05-21,CUST1140,North,Books,Cookware,Product 40,4,840.15,UPI,Cancelled,3360.6
+VM1141,2023-05-22,CUST1141,Central,Toys,Cookware,Product 41,3,487.78,Debit Card,Cancelled,1463.34
+VM1142,2023-05-23,CUST1142,West,Toys,Fiction,Product 42,2,907.04,UPI,Delivered,1814.08
+VM1143,2023-05-24,CUST1143,West,Home & Kitchen,Puzzles,Product 43,2,164.15,Debit Card,Cancelled,328.3
+VM1144,2023-05-25,CUST1144,West,Toys,Fiction,Product 44,2,959.19,Net Banking,Delivered,1918.38
+VM1145,2023-05-26,CUST1145,West,Clothing,Puzzles,Product 45,4,689.22,Credit Card,Cancelled,2756.88
+VM1146,2023-05-27,CUST1146,West,Home & Kitchen,Laptops,Product 46,3,442.07,Credit Card,Returned,1326.21
+VM1147,2023-05-28,CUST1147,East,Toys,Laptops,Product 47,1,277.44,UPI,Delivered,277.44
+VM1148,2023-05-29,CUST1148,South,Electronics,Mobiles,Product 48,4,531.26,Credit Card,Delivered,2125.04
+VM1149,2023-05-30,CUST1149,West,Clothing,Fiction,Product 49,4,275.1,UPI,Returned,1100.4
+VM1150,2023-05-31,CUST1150,North,Clothing,Shirts,Product 0,3,249.7,UPI,Delivered,749.0999999999999
+VM1151,2023-06-01,CUST1151,North,Clothing,Fiction,Product 1,3,655.62,UPI,Cancelled,1966.8600000000001
+VM1152,2023-06-02,CUST1152,North,Home & Kitchen,Shirts,Product 2,4,570.78,Credit Card,Cancelled,2283.12
+VM1153,2023-06-03,CUST1153,North,Toys,Cookware,Product 3,1,703.09,UPI,Delivered,703.09
+VM1154,2023-06-04,CUST1154,East,Toys,Fiction,Product 4,4,936.65,Credit Card,Cancelled,3746.6
+VM1155,2023-06-05,CUST1155,North,Electronics,Cookware,Product 5,3,579.03,UPI,Delivered,1737.09
+VM1156,2023-06-06,CUST1156,West,Electronics,Laptops,Product 6,1,622.84,Cash on Delivery,Returned,622.84
+VM1157,2023-06-07,CUST1157,Central,Clothing,Laptops,Product 7,3,180.66,UPI,Delivered,541.98
+VM1158,2023-06-08,CUST1158,North,Electronics,Mobiles,Product 8,1,745.87,Debit Card,Returned,745.87
+VM1159,2023-06-09,CUST1159,East,Home & Kitchen,Fiction,Product 9,2,459.91,UPI,Cancelled,919.82
+VM1160,2023-06-10,CUST1160,East,Toys,Cookware,Product 10,3,979.05,Net Banking,Returned,2937.1499999999996
+VM1161,2023-06-11,CUST1161,North,Clothing,Shirts,Product 11,3,840.86,UPI,Cancelled,2522.58
+VM1162,2023-06-12,CUST1162,Central,Electronics,Laptops,Product 12,4,570.23,Debit Card,Delivered,2280.92
+VM1163,2023-06-13,CUST1163,North,Home & Kitchen,Laptops,Product 13,3,210.9,Debit Card,Cancelled,632.7
+VM1164,2023-06-14,CUST1164,East,Home & Kitchen,Shirts,Product 14,3,873.47,Credit Card,Delivered,2620.41
+VM1165,2023-06-15,CUST1165,South,Electronics,Cookware,Product 15,2,819.8,Cash on Delivery,Delivered,1639.6
+VM1166,2023-06-16,CUST1166,West,Toys,Cookware,Product 16,3,266.13,UPI,Returned,798.39
+VM1167,2023-06-17,CUST1167,East,Electronics,Fiction,Product 17,2,365.75,Credit Card,Returned,731.5
+VM1168,2023-06-18,CUST1168,North,Clothing,Fiction,Product 18,2,814.07,Cash on Delivery,Returned,1628.14
+VM1169,2023-06-19,CUST1169,West,Electronics,Puzzles,Product 19,2,266.71,UPI,Returned,533.42
+VM1170,2023-06-20,CUST1170,North,Home & Kitchen,Puzzles,Product 20,2,925.98,Net Banking,Cancelled,1851.96
+VM1171,2023-06-21,CUST1171,North,Electronics,Mobiles,Product 21,1,482.07,UPI,Cancelled,482.07
+VM1172,2023-06-22,CUST1172,South,Toys,Laptops,Product 22,4,178.34,Debit Card,Cancelled,713.36
+VM1173,2023-06-23,CUST1173,West,Books,Fiction,Product 23,1,834.17,Debit Card,Delivered,834.17
+VM1174,2023-06-24,CUST1174,West,Electronics,Cookware,Product 24,3,436.16,Net Banking,Cancelled,1308.48
+VM1175,2023-06-25,CUST1175,South,Toys,Shirts,Product 25,1,573.85,Credit Card,Cancelled,573.85
+VM1176,2023-06-26,CUST1176,East,Toys,Cookware,Product 26,1,201.07,Cash on Delivery,Cancelled,201.07
+VM1177,2023-06-27,CUST1177,North,Home & Kitchen,Laptops,Product 27,3,102.33,UPI,Returned,306.99
+VM1178,2023-06-28,CUST1178,Central,Toys,Puzzles,Product 28,3,674.19,Debit Card,Cancelled,2022.5700000000002
+VM1179,2023-06-29,CUST1179,North,Toys,Cookware,Product 29,3,563.66,Credit Card,Delivered,1690.98
+VM1180,2023-06-30,CUST1180,North,Toys,Mobiles,Product 30,1,634.18,Net Banking,Returned,634.18
+VM1181,2023-07-01,CUST1181,East,Toys,Laptops,Product 31,1,814.37,Debit Card,Delivered,814.37
+VM1182,2023-07-02,CUST1182,North,Clothing,Puzzles,Product 32,3,681.95,Net Banking,Cancelled,2045.8500000000001
+VM1183,2023-07-03,CUST1183,South,Clothing,Shirts,Product 33,4,257.3,UPI,Returned,1029.2
+VM1184,2023-07-04,CUST1184,South,Home & Kitchen,Puzzles,Product 34,4,424.7,Cash on Delivery,Delivered,1698.8
+VM1185,2023-07-05,CUST1185,West,Electronics,Mobiles,Product 35,2,915.3,Debit Card,Cancelled,1830.6
+VM1186,2023-07-06,CUST1186,Central,Toys,Laptops,Product 36,3,792.95,Debit Card,Delivered,2378.8500000000004
+VM1187,2023-07-07,CUST1187,North,Electronics,Shirts,Product 37,2,600.97,UPI,Delivered,1201.94
+VM1188,2023-07-08,CUST1188,North,Electronics,Mobiles,Product 38,4,330.08,Credit Card,Delivered,1320.32
+VM1189,2023-07-09,CUST1189,East,Home & Kitchen,Puzzles,Product 39,2,371.85,Cash on Delivery,Cancelled,743.7
+VM1190,2023-07-10,CUST1190,South,Toys,Mobiles,Product 40,3,758.76,Debit Card,Cancelled,2276.2799999999997
+VM1191,2023-07-11,CUST1191,Central,Toys,Laptops,Product 41,3,866.06,Cash on Delivery,Delivered,2598.18
+VM1192,2023-07-12,CUST1192,West,Books,Fiction,Product 42,3,704.28,Debit Card,Returned,2112.84
+VM1193,2023-07-13,CUST1193,South,Electronics,Mobiles,Product 43,1,828.58,Cash on Delivery,Returned,828.58
+VM1194,2023-07-14,CUST1194,West,Electronics,Mobiles,Product 44,2,789.99,Net Banking,Cancelled,1579.98
+VM1195,2023-07-15,CUST1195,East,Clothing,Puzzles,Product 45,4,234.73,Debit Card,Cancelled,938.92
+VM1196,2023-07-16,CUST1196,East,Books,Puzzles,Product 46,4,481.55,Cash on Delivery,Cancelled,1926.2
+VM1197,2023-07-17,CUST1197,North,Clothing,Shirts,Product 47,4,237.69,Credit Card,Cancelled,950.76
+VM1198,2023-07-18,CUST1198,Central,Clothing,Puzzles,Product 48,1,311.71,Net Banking,Cancelled,311.71
+VM1199,2023-07-19,CUST1199,West,Clothing,Cookware,Product 49,1,882.33,Net Banking,Returned,882.33
+VM1200,2023-07-20,CUST1000,South,Home & Kitchen,Laptops,Product 0,3,525.6,Credit Card,Cancelled,1576.8000000000002
+VM1201,2023-07-21,CUST1001,East,Home & Kitchen,Laptops,Product 1,4,581.82,Cash on Delivery,Delivered,2327.28
+VM1202,2023-07-22,CUST1002,North,Clothing,Fiction,Product 2,1,260.6,UPI,Delivered,260.6
+VM1203,2023-07-23,CUST1003,North,Books,Fiction,Product 3,3,381.04,Credit Card,Returned,1143.1200000000001
+VM1204,2023-07-24,CUST1004,West,Electronics,Laptops,Product 4,4,307.22,Cash on Delivery,Delivered,1228.88
+VM1205,2023-07-25,CUST1005,East,Books,Fiction,Product 5,2,285.57,Credit Card,Returned,571.14
+VM1206,2023-07-26,CUST1006,Central,Toys,Shirts,Product 6,3,674.16,Credit Card,Returned,2022.48
+VM1207,2023-07-27,CUST1007,East,Home & Kitchen,Puzzles,Product 7,1,331.2,Debit Card,Delivered,331.2
+VM1208,2023-07-28,CUST1008,West,Electronics,Laptops,Product 8,1,668.81,Cash on Delivery,Cancelled,668.81
+VM1209,2023-07-29,CUST1009,West,Electronics,Fiction,Product 9,3,152.61,UPI,Delivered,457.83000000000004
+VM1210,2023-07-30,CUST1010,East,Toys,Laptops,Product 10,3,227.6,Debit Card,Delivered,682.8
+VM1211,2023-07-31,CUST1011,West,Toys,Cookware,Product 11,1,347.09,Credit Card,Returned,347.09
+VM1212,2023-08-01,CUST1012,East,Clothing,Mobiles,Product 12,2,637.34,Credit Card,Delivered,1274.68
+VM1213,2023-08-02,CUST1013,South,Home & Kitchen,Puzzles,Product 13,4,708.26,Credit Card,Returned,2833.04
+VM1214,2023-08-03,CUST1014,East,Home & Kitchen,Laptops,Product 14,2,498.45,Cash on Delivery,Cancelled,996.9
+VM1215,2023-08-04,CUST1015,East,Books,Mobiles,Product 15,3,501.21,Cash on Delivery,Cancelled,1503.6299999999999
+VM1216,2023-08-05,CUST1016,West,Clothing,Fiction,Product 16,2,752.07,Debit Card,Cancelled,1504.14
+VM1217,2023-08-06,CUST1017,West,Clothing,Mobiles,Product 17,1,114.24,UPI,Delivered,114.24
+VM1218,2023-08-07,CUST1018,North,Clothing,Puzzles,Product 18,3,406.98,Debit Card,Returned,1220.94
+VM1219,2023-08-08,CUST1019,North,Clothing,Laptops,Product 19,4,836.84,Net Banking,Cancelled,3347.36
+VM1220,2023-08-09,CUST1020,South,Home & Kitchen,Cookware,Product 20,1,642.9,Credit Card,Returned,642.9
+VM1221,2023-08-10,CUST1021,North,Home & Kitchen,Fiction,Product 21,1,403.5,Credit Card,Returned,403.5
+VM1222,2023-08-11,CUST1022,East,Clothing,Laptops,Product 22,4,914.97,Credit Card,Cancelled,3659.88
+VM1223,2023-08-12,CUST1023,West,Books,Puzzles,Product 23,4,795.36,Debit Card,Cancelled,3181.44
+VM1224,2023-08-13,CUST1024,North,Electronics,Fiction,Product 24,2,338.41,Debit Card,Returned,676.82
+VM1225,2023-08-14,CUST1025,North,Electronics,Shirts,Product 25,3,680.76,Credit Card,Cancelled,2042.28
+VM1226,2023-08-15,CUST1026,South,Books,Mobiles,Product 26,4,636.18,Debit Card,Returned,2544.72
+VM1227,2023-08-16,CUST1027,South,Clothing,Puzzles,Product 27,4,461.07,Cash on Delivery,Returned,1844.28
+VM1228,2023-08-17,CUST1028,East,Home & Kitchen,Shirts,Product 28,3,430.26,Cash on Delivery,Cancelled,1290.78
+VM1229,2023-08-18,CUST1029,West,Electronics,Laptops,Product 29,4,409.2,Debit Card,Delivered,1636.8
+VM1230,2023-08-19,CUST1030,South,Toys,Cookware,Product 30,4,655.44,Credit Card,Cancelled,2621.76
+VM1231,2023-08-20,CUST1031,North,Toys,Fiction,Product 31,2,498.17,Debit Card,Delivered,996.34
+VM1232,2023-08-21,CUST1032,West,Books,Mobiles,Product 32,1,848.68,Debit Card,Returned,848.68
+VM1233,2023-08-22,CUST1033,West,Clothing,Fiction,Product 33,1,702.64,Debit Card,Returned,702.64
+VM1234,2023-08-23,CUST1034,North,Electronics,Laptops,Product 34,1,162.94,Net Banking,Delivered,162.94
+VM1235,2023-08-24,CUST1035,South,Clothing,Fiction,Product 35,1,676.15,Cash on Delivery,Returned,676.15
+VM1236,2023-08-25,CUST1036,North,Electronics,Mobiles,Product 36,4,344.03,UPI,Delivered,1376.12
+VM1237,2023-08-26,CUST1037,West,Books,Laptops,Product 37,3,633.53,UPI,Delivered,1900.59
+VM1238,2023-08-27,CUST1038,Central,Books,Fiction,Product 38,3,712.12,Net Banking,Returned,2136.36
+VM1239,2023-08-28,CUST1039,Central,Toys,Cookware,Product 39,2,307.75,Debit Card,Delivered,615.5
+VM1240,2023-08-29,CUST1040,East,Clothing,Puzzles,Product 40,2,511.17,Net Banking,Cancelled,1022.34
+VM1241,2023-08-30,CUST1041,North,Toys,Laptops,Product 41,4,271.29,Net Banking,Cancelled,1085.16
+VM1242,2023-08-31,CUST1042,North,Clothing,Puzzles,Product 42,3,147.1,Credit Card,Returned,441.29999999999995
+VM1243,2023-09-01,CUST1043,East,Toys,Laptops,Product 43,3,440.63,Cash on Delivery,Returned,1321.8899999999999
+VM1244,2023-09-02,CUST1044,East,Home & Kitchen,Cookware,Product 44,1,426.65,UPI,Delivered,426.65
+VM1245,2023-09-03,CUST1045,East,Home & Kitchen,Puzzles,Product 45,4,995.93,Debit Card,Delivered,3983.72
+VM1246,2023-09-04,CUST1046,West,Home & Kitchen,Shirts,Product 46,4,501.72,UPI,Delivered,2006.88
+VM1247,2023-09-05,CUST1047,North,Home & Kitchen,Mobiles,Product 47,1,400.21,UPI,Delivered,400.21
+VM1248,2023-09-06,CUST1048,West,Electronics,Shirts,Product 48,4,622.43,Cash on Delivery,Cancelled,2489.72
+VM1249,2023-09-07,CUST1049,East,Home & Kitchen,Fiction,Product 49,4,179.89,UPI,Cancelled,719.56
+VM1250,2023-09-08,CUST1050,North,Books,Cookware,Product 0,2,965.5,UPI,Returned,1931.0
+VM1251,2023-09-09,CUST1051,West,Books,Shirts,Product 1,3,671.46,Net Banking,Delivered,2014.38
+VM1252,2023-09-10,CUST1052,West,Electronics,Laptops,Product 2,4,779.35,Cash on Delivery,Delivered,3117.4
+VM1253,2023-09-11,CUST1053,East,Home & Kitchen,Fiction,Product 3,2,253.43,Credit Card,Returned,506.86
+VM1254,2023-09-12,CUST1054,North,Home & Kitchen,Fiction,Product 4,3,468.53,Debit Card,Delivered,1405.59
+VM1255,2023-09-13,CUST1055,East,Home & Kitchen,Shirts,Product 5,1,480.42,UPI,Delivered,480.42
+VM1256,2023-09-14,CUST1056,North,Toys,Shirts,Product 6,2,839.63,Debit Card,Delivered,1679.26
+VM1257,2023-09-15,CUST1057,Central,Clothing,Cookware,Product 7,2,101.11,Credit Card,Delivered,202.22
+VM1258,2023-09-16,CUST1058,South,Toys,Mobiles,Product 8,3,370.77,Debit Card,Delivered,1112.31
+VM1259,2023-09-17,CUST1059,South,Clothing,Shirts,Product 9,1,983.11,Credit Card,Returned,983.11
+VM1260,2023-09-18,CUST1060,South,Home & Kitchen,Shirts,Product 10,2,527.4,Net Banking,Delivered,1054.8
+VM1261,2023-09-19,CUST1061,East,Home & Kitchen,Puzzles,Product 11,4,444.27,UPI,Returned,1777.08
+VM1262,2023-09-20,CUST1062,Central,Toys,Laptops,Product 12,4,207.85,Credit Card,Delivered,831.4
+VM1263,2023-09-21,CUST1063,North,Toys,Puzzles,Product 13,4,976.75,Debit Card,Cancelled,3907.0
+VM1264,2023-09-22,CUST1064,West,Clothing,Puzzles,Product 14,1,118.02,UPI,Cancelled,118.02
+VM1265,2023-09-23,CUST1065,North,Books,Fiction,Product 15,2,763.46,Net Banking,Cancelled,1526.92
+VM1266,2023-09-24,CUST1066,West,Clothing,Mobiles,Product 16,4,791.74,UPI,Cancelled,3166.96
+VM1267,2023-09-25,CUST1067,North,Toys,Laptops,Product 17,1,319.29,Credit Card,Returned,319.29
+VM1268,2023-09-26,CUST1068,Central,Toys,Cookware,Product 18,4,704.4,Net Banking,Returned,2817.6
+VM1269,2023-09-27,CUST1069,West,Electronics,Cookware,Product 19,3,183.64,Debit Card,Delivered,550.92
+VM1270,2023-09-28,CUST1070,East,Toys,Shirts,Product 20,2,331.34,Net Banking,Cancelled,662.68
+VM1271,2023-09-29,CUST1071,North,Electronics,Shirts,Product 21,2,809.11,Net Banking,Returned,1618.22
+VM1272,2023-09-30,CUST1072,North,Books,Cookware,Product 22,1,878.22,Cash on Delivery,Delivered,878.22
+VM1273,2023-10-01,CUST1073,West,Clothing,Shirts,Product 23,1,647.64,Net Banking,Delivered,647.64
+VM1274,2023-10-02,CUST1074,East,Clothing,Mobiles,Product 24,2,556.15,Net Banking,Returned,1112.3
+VM1275,2023-10-03,CUST1075,East,Electronics,Puzzles,Product 25,4,243.37,UPI,Cancelled,973.48
+VM1276,2023-10-04,CUST1076,Central,Clothing,Shirts,Product 26,4,156.8,Debit Card,Delivered,627.2
+VM1277,2023-10-05,CUST1077,East,Toys,Fiction,Product 27,3,205.88,UPI,Cancelled,617.64
+VM1278,2023-10-06,CUST1078,East,Home & Kitchen,Shirts,Product 28,4,304.62,UPI,Cancelled,1218.48
+VM1279,2023-10-07,CUST1079,East,Electronics,Laptops,Product 29,1,407.51,Credit Card,Cancelled,407.51
+VM1280,2023-10-08,CUST1080,South,Clothing,Mobiles,Product 30,1,442.82,UPI,Delivered,442.82
+VM1281,2023-10-09,CUST1081,Central,Electronics,Laptops,Product 31,4,411.69,Cash on Delivery,Cancelled,1646.76
+VM1282,2023-10-10,CUST1082,North,Electronics,Laptops,Product 32,1,315.15,Cash on Delivery,Delivered,315.15
+VM1283,2023-10-11,CUST1083,West,Home & Kitchen,Fiction,Product 33,2,558.75,Credit Card,Cancelled,1117.5
+VM1284,2023-10-12,CUST1084,North,Toys,Mobiles,Product 34,2,842.76,Debit Card,Delivered,1685.52
+VM1285,2023-10-13,CUST1085,Central,Electronics,Mobiles,Product 35,4,351.73,Debit Card,Cancelled,1406.92
+VM1286,2023-10-14,CUST1086,West,Clothing,Mobiles,Product 36,2,948.15,UPI,Returned,1896.3
+VM1287,2023-10-15,CUST1087,Central,Books,Mobiles,Product 37,2,886.0,UPI,Cancelled,1772.0
+VM1288,2023-10-16,CUST1088,East,Electronics,Mobiles,Product 38,3,245.59,UPI,Cancelled,736.77
+VM1289,2023-10-17,CUST1089,West,Electronics,Fiction,Product 39,3,807.65,Debit Card,Delivered,2422.95
+VM1290,2023-10-18,CUST1090,East,Home & Kitchen,Shirts,Product 40,2,617.13,Net Banking,Delivered,1234.26
+VM1291,2023-10-19,CUST1091,North,Toys,Laptops,Product 41,4,609.92,Cash on Delivery,Cancelled,2439.68
+VM1292,2023-10-20,CUST1092,North,Books,Mobiles,Product 42,3,451.94,Net Banking,Returned,1355.82
+VM1293,2023-10-21,CUST1093,West,Clothing,Shirts,Product 43,1,551.04,Net Banking,Returned,551.04
+VM1294,2023-10-22,CUST1094,West,Books,Shirts,Product 44,1,457.46,Debit Card,Delivered,457.46
+VM1295,2023-10-23,CUST1095,Central,Clothing,Laptops,Product 45,1,585.76,Net Banking,Returned,585.76
+VM1296,2023-10-24,CUST1096,Central,Toys,Fiction,Product 46,4,665.16,Credit Card,Cancelled,2660.64
+VM1297,2023-10-25,CUST1097,East,Clothing,Cookware,Product 47,2,706.87,UPI,Delivered,1413.74
+VM1298,2023-10-26,CUST1098,West,Home & Kitchen,Cookware,Product 48,1,579.23,Credit Card,Cancelled,579.23
+VM1299,2023-10-27,CUST1099,North,Home & Kitchen,Shirts,Product 49,4,749.28,Cash on Delivery,Delivered,2997.12
+VM1300,2023-10-28,CUST1100,Central,Home & Kitchen,Puzzles,Product 0,3,227.15,UPI,Delivered,681.45
+VM1301,2023-10-29,CUST1101,Central,Home & Kitchen,Puzzles,Product 1,2,290.78,Net Banking,Delivered,581.56
+VM1302,2023-10-30,CUST1102,North,Books,Laptops,Product 2,3,836.86,Cash on Delivery,Delivered,2510.58
+VM1303,2023-10-31,CUST1103,Central,Toys,Cookware,Product 3,4,390.28,UPI,Returned,1561.12
+VM1304,2023-11-01,CUST1104,East,Clothing,Shirts,Product 4,1,120.6,Net Banking,Cancelled,120.6
+VM1305,2023-11-02,CUST1105,West,Clothing,Fiction,Product 5,1,238.41,Credit Card,Cancelled,238.41
+VM1306,2023-11-03,CUST1106,North,Home & Kitchen,Cookware,Product 6,4,301.25,UPI,Cancelled,1205.0
+VM1307,2023-11-04,CUST1107,West,Home & Kitchen,Shirts,Product 7,1,961.59,Net Banking,Delivered,961.59
+VM1308,2023-11-05,CUST1108,Central,Electronics,Shirts,Product 8,2,615.74,Credit Card,Returned,1231.48
+VM1309,2023-11-06,CUST1109,Central,Toys,Mobiles,Product 9,4,939.46,Cash on Delivery,Cancelled,3757.84
+VM1310,2023-11-07,CUST1110,North,Books,Fiction,Product 10,3,617.65,Cash on Delivery,Returned,1852.9499999999998
+VM1311,2023-11-08,CUST1111,East,Clothing,Mobiles,Product 11,4,531.42,Cash on Delivery,Delivered,2125.68
+VM1312,2023-11-09,CUST1112,South,Electronics,Laptops,Product 12,2,382.35,Cash on Delivery,Cancelled,764.7
+VM1313,2023-11-10,CUST1113,North,Electronics,Mobiles,Product 13,2,645.73,Debit Card,Returned,1291.46
+VM1314,2023-11-11,CUST1114,South,Clothing,Mobiles,Product 14,4,225.28,UPI,Delivered,901.12
+VM1315,2023-11-12,CUST1115,South,Books,Cookware,Product 15,4,908.44,UPI,Returned,3633.76
+VM1316,2023-11-13,CUST1116,East,Electronics,Puzzles,Product 16,1,846.4,Debit Card,Cancelled,846.4
+VM1317,2023-11-14,CUST1117,South,Electronics,Shirts,Product 17,2,385.78,Net Banking,Cancelled,771.56
+VM1318,2023-11-15,CUST1118,South,Toys,Fiction,Product 18,4,957.52,Net Banking,Delivered,3830.08
+VM1319,2023-11-16,CUST1119,East,Books,Mobiles,Product 19,4,842.68,Cash on Delivery,Delivered,3370.72
+VM1320,2023-11-17,CUST1120,South,Electronics,Fiction,Product 20,2,699.68,Credit Card,Delivered,1399.36
+VM1321,2023-11-18,CUST1121,South,Books,Puzzles,Product 21,4,209.59,Net Banking,Returned,838.36
+VM1322,2023-11-19,CUST1122,South,Clothing,Puzzles,Product 22,1,530.41,Credit Card,Returned,530.41
+VM1323,2023-11-20,CUST1123,North,Home & Kitchen,Mobiles,Product 23,2,555.5,UPI,Returned,1111.0
+VM1324,2023-11-21,CUST1124,North,Electronics,Laptops,Product 24,1,309.3,Credit Card,Delivered,309.3
+VM1325,2023-11-22,CUST1125,North,Toys,Mobiles,Product 25,1,171.97,UPI,Cancelled,171.97
+VM1326,2023-11-23,CUST1126,East,Clothing,Cookware,Product 26,1,799.05,Debit Card,Cancelled,799.05
+VM1327,2023-11-24,CUST1127,Central,Books,Shirts,Product 27,1,209.83,Debit Card,Returned,209.83
+VM1328,2023-11-25,CUST1128,South,Clothing,Laptops,Product 28,2,634.86,Cash on Delivery,Returned,1269.72
+VM1329,2023-11-26,CUST1129,South,Electronics,Mobiles,Product 29,1,942.8,Net Banking,Cancelled,942.8
+VM1330,2023-11-27,CUST1130,East,Books,Fiction,Product 30,1,888.49,Cash on Delivery,Cancelled,888.49
+VM1331,2023-11-28,CUST1131,South,Home & Kitchen,Laptops,Product 31,4,349.98,UPI,Returned,1399.92
+VM1332,2023-11-29,CUST1132,North,Clothing,Laptops,Product 32,2,866.3,Cash on Delivery,Returned,1732.6
+VM1333,2023-11-30,CUST1133,Central,Electronics,Mobiles,Product 33,2,100.3,Credit Card,Cancelled,200.6
+VM1334,2023-12-01,CUST1134,West,Toys,Laptops,Product 34,3,115.92,UPI,Delivered,347.76
+VM1335,2023-12-02,CUST1135,South,Books,Fiction,Product 35,2,642.3,Debit Card,Returned,1284.6
+VM1336,2023-12-03,CUST1136,North,Clothing,Puzzles,Product 36,2,428.32,Net Banking,Cancelled,856.64
+VM1337,2023-12-04,CUST1137,West,Clothing,Laptops,Product 37,3,447.81,UPI,Cancelled,1343.43
+VM1338,2023-12-05,CUST1138,Central,Home & Kitchen,Puzzles,Product 38,2,608.0,UPI,Cancelled,1216.0
+VM1339,2023-12-06,CUST1139,West,Home & Kitchen,Fiction,Product 39,2,272.6,Credit Card,Cancelled,545.2
+VM1340,2023-12-07,CUST1140,North,Toys,Mobiles,Product 40,2,290.58,Net Banking,Delivered,581.16
+VM1341,2023-12-08,CUST1141,West,Toys,Shirts,Product 41,2,536.14,Debit Card,Cancelled,1072.28
+VM1342,2023-12-09,CUST1142,East,Electronics,Laptops,Product 42,3,778.83,UPI,Returned,2336.4900000000002
+VM1343,2023-12-10,CUST1143,West,Electronics,Shirts,Product 43,2,657.55,UPI,Delivered,1315.1
+VM1344,2023-12-11,CUST1144,South,Toys,Fiction,Product 44,2,367.62,Credit Card,Cancelled,735.24
+VM1345,2023-12-12,CUST1145,South,Toys,Laptops,Product 45,3,487.3,Cash on Delivery,Delivered,1461.9
+VM1346,2023-12-13,CUST1146,East,Books,Puzzles,Product 46,4,253.6,Debit Card,Returned,1014.4
+VM1347,2023-12-14,CUST1147,North,Home & Kitchen,Cookware,Product 47,1,167.17,Net Banking,Cancelled,167.17
+VM1348,2023-12-15,CUST1148,South,Electronics,Shirts,Product 48,4,804.43,UPI,Returned,3217.72
+VM1349,2023-12-16,CUST1149,Central,Home & Kitchen,Laptops,Product 49,3,338.85,UPI,Cancelled,1016.5500000000001
+VM1350,2023-12-17,CUST1150,South,Home & Kitchen,Shirts,Product 0,1,259.99,Debit Card,Cancelled,259.99
+VM1351,2023-12-18,CUST1151,South,Toys,Laptops,Product 1,3,722.46,Cash on Delivery,Cancelled,2167.38
+VM1352,2023-12-19,CUST1152,North,Books,Mobiles,Product 2,3,656.25,UPI,Cancelled,1968.75
+VM1353,2023-12-20,CUST1153,West,Clothing,Puzzles,Product 3,2,669.87,Debit Card,Cancelled,1339.74
+VM1354,2023-12-21,CUST1154,South,Books,Shirts,Product 4,1,306.01,Credit Card,Delivered,306.01
+VM1355,2023-12-22,CUST1155,East,Books,Cookware,Product 5,2,309.38,Cash on Delivery,Cancelled,618.76
+VM1356,2023-12-23,CUST1156,West,Home & Kitchen,Cookware,Product 6,1,298.72,Net Banking,Cancelled,298.72
+VM1357,2023-12-24,CUST1157,Central,Books,Fiction,Product 7,3,256.38,UPI,Delivered,769.14
+VM1358,2023-12-25,CUST1158,North,Electronics,Laptops,Product 8,3,690.15,Debit Card,Delivered,2070.45
+VM1359,2023-12-26,CUST1159,Central,Home & Kitchen,Shirts,Product 9,4,863.21,Credit Card,Delivered,3452.84
+VM1360,2023-12-27,CUST1160,West,Electronics,Fiction,Product 10,1,751.89,Net Banking,Delivered,751.89
+VM1361,2023-12-28,CUST1161,West,Clothing,Shirts,Product 11,2,812.88,Debit Card,Delivered,1625.76
+VM1362,2023-12-29,CUST1162,West,Home & Kitchen,Laptops,Product 12,4,464.32,Debit Card,Delivered,1857.28
+VM1363,2023-12-30,CUST1163,Central,Clothing,Cookware,Product 13,4,688.67,Net Banking,Cancelled,2754.68
+VM1364,2023-12-31,CUST1164,West,Home & Kitchen,Mobiles,Product 14,4,418.81,Credit Card,Cancelled,1675.24
+VM1365,2024-01-01,CUST1165,Central,Toys,Cookware,Product 15,2,572.95,Credit Card,Returned,1145.9
+VM1366,2024-01-02,CUST1166,West,Books,Fiction,Product 16,4,533.47,Cash on Delivery,Cancelled,2133.88
+VM1367,2024-01-03,CUST1167,East,Toys,Puzzles,Product 17,2,259.2,UPI,Cancelled,518.4
+VM1368,2024-01-04,CUST1168,West,Clothing,Mobiles,Product 18,4,448.37,Net Banking,Delivered,1793.48
+VM1369,2024-01-05,CUST1169,Central,Books,Fiction,Product 19,2,967.44,Net Banking,Delivered,1934.88
+VM1370,2024-01-06,CUST1170,South,Home & Kitchen,Laptops,Product 20,3,323.72,Net Banking,Cancelled,971.1600000000001
+VM1371,2024-01-07,CUST1171,West,Books,Mobiles,Product 21,3,220.42,Credit Card,Returned,661.26
+VM1372,2024-01-08,CUST1172,South,Electronics,Fiction,Product 22,3,476.72,UPI,Delivered,1430.16
+VM1373,2024-01-09,CUST1173,East,Books,Laptops,Product 23,3,811.3,Cash on Delivery,Cancelled,2433.8999999999996
+VM1374,2024-01-10,CUST1174,North,Electronics,Cookware,Product 24,3,623.93,Debit Card,Cancelled,1871.79
+VM1375,2024-01-11,CUST1175,East,Books,Puzzles,Product 25,4,712.88,Debit Card,Returned,2851.52
+VM1376,2024-01-12,CUST1176,West,Electronics,Laptops,Product 26,4,270.73,Net Banking,Returned,1082.92
+VM1377,2024-01-13,CUST1177,South,Clothing,Shirts,Product 27,4,657.05,UPI,Delivered,2628.2
+VM1378,2024-01-14,CUST1178,South,Toys,Laptops,Product 28,2,391.15,Credit Card,Returned,782.3
+VM1379,2024-01-15,CUST1179,Central,Home & Kitchen,Laptops,Product 29,2,850.87,UPI,Cancelled,1701.74
+VM1380,2024-01-16,CUST1180,South,Books,Puzzles,Product 30,2,666.37,UPI,Cancelled,1332.74
+VM1381,2024-01-17,CUST1181,Central,Toys,Shirts,Product 31,2,278.97,Credit Card,Returned,557.94
+VM1382,2024-01-18,CUST1182,North,Home & Kitchen,Fiction,Product 32,3,158.16,Net Banking,Returned,474.48
+VM1383,2024-01-19,CUST1183,West,Home & Kitchen,Fiction,Product 33,3,138.37,UPI,Returned,415.11
+VM1384,2024-01-20,CUST1184,Central,Electronics,Laptops,Product 34,3,434.27,Debit Card,Returned,1302.81
+VM1385,2024-01-21,CUST1185,North,Clothing,Shirts,Product 35,1,339.27,Credit Card,Delivered,339.27
+VM1386,2024-01-22,CUST1186,South,Clothing,Shirts,Product 36,4,681.48,Cash on Delivery,Returned,2725.92
+VM1387,2024-01-23,CUST1187,South,Toys,Puzzles,Product 37,2,549.4,Net Banking,Delivered,1098.8
+VM1388,2024-01-24,CUST1188,North,Clothing,Cookware,Product 38,2,339.42,Credit Card,Cancelled,678.84
+VM1389,2024-01-25,CUST1189,South,Books,Fiction,Product 39,3,234.31,Cash on Delivery,Returned,702.9300000000001
+VM1390,2024-01-26,CUST1190,North,Clothing,Puzzles,Product 40,2,214.48,Cash on Delivery,Delivered,428.96
+VM1391,2024-01-27,CUST1191,Central,Toys,Mobiles,Product 41,2,878.19,UPI,Returned,1756.38
+VM1392,2024-01-28,CUST1192,Central,Clothing,Fiction,Product 42,4,319.13,UPI,Cancelled,1276.52
+VM1393,2024-01-29,CUST1193,North,Books,Puzzles,Product 43,3,686.54,UPI,Cancelled,2059.62
+VM1394,2024-01-30,CUST1194,Central,Electronics,Fiction,Product 44,4,829.62,Credit Card,Cancelled,3318.48
+VM1395,2024-01-31,CUST1195,Central,Toys,Cookware,Product 45,1,652.67,Credit Card,Returned,652.67
+VM1396,2024-02-01,CUST1196,Central,Electronics,Mobiles,Product 46,1,873.61,Net Banking,Returned,873.61
+VM1397,2024-02-02,CUST1197,East,Electronics,Cookware,Product 47,1,453.15,UPI,Delivered,453.15
+VM1398,2024-02-03,CUST1198,West,Electronics,Mobiles,Product 48,3,960.6,Cash on Delivery,Cancelled,2881.8
+VM1399,2024-02-04,CUST1199,South,Home & Kitchen,Laptops,Product 49,2,219.83,Debit Card,Returned,439.66
+VM1400,2024-02-05,CUST1000,East,Home & Kitchen,Puzzles,Product 0,3,191.93,Net Banking,Cancelled,575.79
+VM1401,2024-02-06,CUST1001,Central,Electronics,Mobiles,Product 1,3,692.82,Credit Card,Cancelled,2078.46
+VM1402,2024-02-07,CUST1002,North,Toys,Cookware,Product 2,2,948.55,Net Banking,Delivered,1897.1
+VM1403,2024-02-08,CUST1003,Central,Books,Fiction,Product 3,4,828.0,Net Banking,Delivered,3312.0
+VM1404,2024-02-09,CUST1004,West,Books,Mobiles,Product 4,1,168.78,Net Banking,Delivered,168.78
+VM1405,2024-02-10,CUST1005,Central,Clothing,Puzzles,Product 5,4,351.43,Net Banking,Delivered,1405.72
+VM1406,2024-02-11,CUST1006,North,Toys,Mobiles,Product 6,1,937.29,Debit Card,Cancelled,937.29
+VM1407,2024-02-12,CUST1007,West,Home & Kitchen,Shirts,Product 7,3,327.75,UPI,Delivered,983.25
+VM1408,2024-02-13,CUST1008,Central,Electronics,Fiction,Product 8,1,803.05,Cash on Delivery,Delivered,803.05
+VM1409,2024-02-14,CUST1009,West,Clothing,Puzzles,Product 9,3,842.62,Net Banking,Delivered,2527.86
+VM1410,2024-02-15,CUST1010,South,Books,Puzzles,Product 10,4,545.91,Net Banking,Delivered,2183.64
+VM1411,2024-02-16,CUST1011,South,Home & Kitchen,Laptops,Product 11,3,447.71,Net Banking,Cancelled,1343.1299999999999
+VM1412,2024-02-17,CUST1012,Central,Home & Kitchen,Cookware,Product 12,4,505.11,UPI,Delivered,2020.44
+VM1413,2024-02-18,CUST1013,West,Electronics,Laptops,Product 13,2,304.27,Credit Card,Cancelled,608.54
+VM1414,2024-02-19,CUST1014,North,Books,Puzzles,Product 14,2,900.45,Credit Card,Returned,1800.9
+VM1415,2024-02-20,CUST1015,Central,Toys,Fiction,Product 15,2,505.56,Debit Card,Cancelled,1011.12
+VM1416,2024-02-21,CUST1016,South,Home & Kitchen,Mobiles,Product 16,3,894.21,Credit Card,Cancelled,2682.63
+VM1417,2024-02-22,CUST1017,South,Electronics,Mobiles,Product 17,2,195.12,Net Banking,Delivered,390.24
+VM1418,2024-02-23,CUST1018,Central,Toys,Fiction,Product 18,1,989.45,Net Banking,Returned,989.45
+VM1419,2024-02-24,CUST1019,West,Books,Puzzles,Product 19,4,498.95,Net Banking,Returned,1995.8
+VM1420,2024-02-25,CUST1020,South,Home & Kitchen,Mobiles,Product 20,4,143.05,Debit Card,Returned,572.2
+VM1421,2024-02-26,CUST1021,West,Toys,Mobiles,Product 21,1,134.22,Net Banking,Returned,134.22
+VM1422,2024-02-27,CUST1022,South,Toys,Mobiles,Product 22,3,771.59,Credit Card,Cancelled,2314.77
+VM1423,2024-02-28,CUST1023,South,Toys,Cookware,Product 23,3,693.13,UPI,Returned,2079.39
+VM1424,2024-02-29,CUST1024,East,Home & Kitchen,Cookware,Product 24,4,821.92,UPI,Cancelled,3287.68
+VM1425,2024-03-01,CUST1025,South,Home & Kitchen,Shirts,Product 25,2,194.83,Cash on Delivery,Cancelled,389.66
+VM1426,2024-03-02,CUST1026,North,Clothing,Laptops,Product 26,3,132.01,Credit Card,Cancelled,396.03
+VM1427,2024-03-03,CUST1027,Central,Books,Fiction,Product 27,3,557.72,Net Banking,Returned,1673.16
+VM1428,2024-03-04,CUST1028,Central,Electronics,Fiction,Product 28,1,448.84,UPI,Delivered,448.84
+VM1429,2024-03-05,CUST1029,West,Toys,Fiction,Product 29,1,515.75,Credit Card,Delivered,515.75
+VM1430,2024-03-06,CUST1030,South,Clothing,Shirts,Product 30,2,992.43,UPI,Returned,1984.86
+VM1431,2024-03-07,CUST1031,North,Electronics,Cookware,Product 31,3,973.67,Net Banking,Delivered,2921.0099999999998
+VM1432,2024-03-08,CUST1032,West,Clothing,Puzzles,Product 32,3,948.08,UPI,Delivered,2844.2400000000002
+VM1433,2024-03-09,CUST1033,East,Home & Kitchen,Puzzles,Product 33,1,805.46,Cash on Delivery,Cancelled,805.46
+VM1434,2024-03-10,CUST1034,West,Toys,Shirts,Product 34,3,419.36,Cash on Delivery,Cancelled,1258.08
+VM1435,2024-03-11,CUST1035,West,Electronics,Puzzles,Product 35,4,470.92,UPI,Returned,1883.68
+VM1436,2024-03-12,CUST1036,South,Electronics,Fiction,Product 36,1,594.65,Credit Card,Returned,594.65
+VM1437,2024-03-13,CUST1037,East,Electronics,Laptops,Product 37,2,847.48,Credit Card,Delivered,1694.96
+VM1438,2024-03-14,CUST1038,West,Electronics,Mobiles,Product 38,1,161.84,Credit Card,Cancelled,161.84
+VM1439,2024-03-15,CUST1039,North,Electronics,Cookware,Product 39,3,481.87,UPI,Returned,1445.6100000000001
+VM1440,2024-03-16,CUST1040,North,Clothing,Cookware,Product 40,2,174.36,Credit Card,Returned,348.72
+VM1441,2024-03-17,CUST1041,Central,Toys,Shirts,Product 41,1,563.19,Net Banking,Returned,563.19
+VM1442,2024-03-18,CUST1042,East,Home & Kitchen,Cookware,Product 42,4,909.01,Cash on Delivery,Returned,3636.04
+VM1443,2024-03-19,CUST1043,East,Home & Kitchen,Fiction,Product 43,4,804.24,Net Banking,Returned,3216.96
+VM1444,2024-03-20,CUST1044,Central,Home & Kitchen,Puzzles,Product 44,1,305.06,Credit Card,Returned,305.06
+VM1445,2024-03-21,CUST1045,West,Home & Kitchen,Fiction,Product 45,4,978.39,Net Banking,Delivered,3913.56
+VM1446,2024-03-22,CUST1046,East,Clothing,Shirts,Product 46,4,700.62,Credit Card,Cancelled,2802.48
+VM1447,2024-03-23,CUST1047,North,Books,Fiction,Product 47,4,109.38,UPI,Cancelled,437.52
+VM1448,2024-03-24,CUST1048,North,Toys,Puzzles,Product 48,2,329.87,Net Banking,Returned,659.74
+VM1449,2024-03-25,CUST1049,South,Electronics,Laptops,Product 49,4,334.64,UPI,Cancelled,1338.56
+VM1450,2024-03-26,CUST1050,East,Books,Shirts,Product 0,4,162.33,UPI,Cancelled,649.32
+VM1451,2024-03-27,CUST1051,West,Home & Kitchen,Laptops,Product 1,4,963.84,Debit Card,Cancelled,3855.36
+VM1452,2024-03-28,CUST1052,Central,Books,Mobiles,Product 2,2,530.43,Credit Card,Returned,1060.86
+VM1453,2024-03-29,CUST1053,Central,Toys,Laptops,Product 3,1,906.23,Cash on Delivery,Returned,906.23
+VM1454,2024-03-30,CUST1054,West,Electronics,Mobiles,Product 4,3,389.99,Credit Card,Cancelled,1169.97
+VM1455,2024-03-31,CUST1055,South,Electronics,Mobiles,Product 5,4,212.71,Cash on Delivery,Cancelled,850.84
+VM1456,2024-04-01,CUST1056,Central,Toys,Laptops,Product 6,1,526.9,Credit Card,Returned,526.9
+VM1457,2024-04-02,CUST1057,East,Toys,Shirts,Product 7,4,202.56,UPI,Delivered,810.24
+VM1458,2024-04-03,CUST1058,South,Home & Kitchen,Puzzles,Product 8,2,537.41,Net Banking,Cancelled,1074.82
+VM1459,2024-04-04,CUST1059,East,Electronics,Fiction,Product 9,1,928.27,Net Banking,Delivered,928.27
+VM1460,2024-04-05,CUST1060,North,Books,Fiction,Product 10,2,568.69,Debit Card,Cancelled,1137.38
+VM1461,2024-04-06,CUST1061,South,Clothing,Puzzles,Product 11,4,654.85,Cash on Delivery,Delivered,2619.4
+VM1462,2024-04-07,CUST1062,Central,Clothing,Mobiles,Product 12,4,240.97,Cash on Delivery,Delivered,963.88
+VM1463,2024-04-08,CUST1063,South,Toys,Mobiles,Product 13,2,139.36,Cash on Delivery,Delivered,278.72
+VM1464,2024-04-09,CUST1064,South,Home & Kitchen,Shirts,Product 14,3,199.73,UPI,Returned,599.1899999999999
+VM1465,2024-04-10,CUST1065,South,Clothing,Cookware,Product 15,2,638.68,Cash on Delivery,Delivered,1277.36
+VM1466,2024-04-11,CUST1066,South,Electronics,Laptops,Product 16,4,185.51,Net Banking,Delivered,742.04
+VM1467,2024-04-12,CUST1067,East,Toys,Mobiles,Product 17,2,438.39,UPI,Delivered,876.78
+VM1468,2024-04-13,CUST1068,North,Books,Fiction,Product 18,3,595.08,Credit Card,Cancelled,1785.2400000000002
+VM1469,2024-04-14,CUST1069,West,Toys,Shirts,Product 19,2,449.79,Cash on Delivery,Delivered,899.58
+VM1470,2024-04-15,CUST1070,South,Books,Laptops,Product 20,3,247.32,Cash on Delivery,Cancelled,741.96
+VM1471,2024-04-16,CUST1071,Central,Toys,Shirts,Product 21,3,346.41,Credit Card,Delivered,1039.23
+VM1472,2024-04-17,CUST1072,South,Toys,Laptops,Product 22,2,935.49,Cash on Delivery,Delivered,1870.98
+VM1473,2024-04-18,CUST1073,Central,Toys,Laptops,Product 23,2,708.38,Credit Card,Returned,1416.76
+VM1474,2024-04-19,CUST1074,East,Books,Puzzles,Product 24,1,546.44,UPI,Cancelled,546.44
+VM1475,2024-04-20,CUST1075,Central,Books,Mobiles,Product 25,4,111.44,Net Banking,Delivered,445.76
+VM1476,2024-04-21,CUST1076,West,Toys,Shirts,Product 26,3,993.17,Credit Card,Cancelled,2979.5099999999998
+VM1477,2024-04-22,CUST1077,North,Clothing,Shirts,Product 27,1,704.31,Debit Card,Cancelled,704.31
+VM1478,2024-04-23,CUST1078,Central,Home & Kitchen,Puzzles,Product 28,2,385.23,Credit Card,Returned,770.46
+VM1479,2024-04-24,CUST1079,Central,Home & Kitchen,Fiction,Product 29,4,891.34,Cash on Delivery,Returned,3565.36
+VM1480,2024-04-25,CUST1080,North,Home & Kitchen,Fiction,Product 30,1,332.59,UPI,Returned,332.59
+VM1481,2024-04-26,CUST1081,West,Books,Mobiles,Product 31,3,589.61,UPI,Returned,1768.83
+VM1482,2024-04-27,CUST1082,South,Books,Mobiles,Product 32,1,672.46,Credit Card,Returned,672.46
+VM1483,2024-04-28,CUST1083,Central,Clothing,Cookware,Product 33,3,298.96,Net Banking,Returned,896.8799999999999
+VM1484,2024-04-29,CUST1084,North,Home & Kitchen,Puzzles,Product 34,2,980.56,Debit Card,Returned,1961.12
+VM1485,2024-04-30,CUST1085,East,Home & Kitchen,Fiction,Product 35,4,773.37,UPI,Returned,3093.48
+VM1486,2024-05-01,CUST1086,North,Toys,Laptops,Product 36,4,602.03,Cash on Delivery,Delivered,2408.12
+VM1487,2024-05-02,CUST1087,East,Books,Shirts,Product 37,4,262.54,Cash on Delivery,Cancelled,1050.16
+VM1488,2024-05-03,CUST1088,West,Home & Kitchen,Mobiles,Product 38,2,148.47,Net Banking,Returned,296.94
+VM1489,2024-05-04,CUST1089,South,Clothing,Shirts,Product 39,3,388.05,UPI,Returned,1164.15
+VM1490,2024-05-05,CUST1090,North,Clothing,Shirts,Product 40,2,777.87,Credit Card,Cancelled,1555.74
+VM1491,2024-05-06,CUST1091,Central,Home & Kitchen,Cookware,Product 41,4,342.4,Cash on Delivery,Delivered,1369.6
+VM1492,2024-05-07,CUST1092,West,Books,Fiction,Product 42,2,585.6,Net Banking,Cancelled,1171.2
+VM1493,2024-05-08,CUST1093,North,Clothing,Mobiles,Product 43,2,755.15,UPI,Cancelled,1510.3
+VM1494,2024-05-09,CUST1094,Central,Toys,Shirts,Product 44,2,197.15,UPI,Returned,394.3
+VM1495,2024-05-10,CUST1095,North,Clothing,Mobiles,Product 45,3,716.77,UPI,Cancelled,2150.31
+VM1496,2024-05-11,CUST1096,East,Electronics,Laptops,Product 46,1,182.68,UPI,Cancelled,182.68
+VM1497,2024-05-12,CUST1097,North,Electronics,Cookware,Product 47,1,968.62,UPI,Returned,968.62
+VM1498,2024-05-13,CUST1098,North,Books,Laptops,Product 48,2,539.55,Cash on Delivery,Returned,1079.1
+VM1499,2024-05-14,CUST1099,North,Home & Kitchen,Mobiles,Product 49,1,235.61,Net Banking,Returned,235.61
